@@ -1,9 +1,11 @@
 body{
-    margin: 0;
+    height: 100%;
+    width: 100%;
+    margin: 10%;
     background-color: white;
-    display: flex;
-    justify-content: center;
    
+    justify-content: center;
+   display: flex;
     border-radius: 25px;
     
 
@@ -15,7 +17,7 @@ body{
     background-color: white;
     border-radius: 25px;
     overflow: hidden;
-    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15s);
    
 }
 .result {
